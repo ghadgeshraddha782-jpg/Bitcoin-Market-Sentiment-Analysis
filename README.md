@@ -220,9 +220,9 @@ These datasets are merged based on trading dates to analyze the relationship bet
 
 # 👨‍💻 Author
 
-**Dnyandip Vadane**
+**Sharddha Ghadge**
 
-Information Technology Student
+Computer Science Student
 
 Passionate about AI, Machine Learning, Data Science, and Data Analytics.
 
